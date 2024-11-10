@@ -1,0 +1,22 @@
+{
+    "spells": [
+        {
+            "name": "Fireball",
+            "element": 1,
+            "minLevel": 5,
+            "damage": 50,
+            "manaConsumption": 20,
+            "avoidChance": 10,
+            "selectionChance": 20
+        },
+        {
+            "name": "Ice Shard",
+            "element": 2,
+            "minLevel": 3,
+            "damage": 40,
+            "manaConsumption": 15,
+            "avoidChance": 5,
+            "selectionChance": 5
+        }
+    ]
+}
